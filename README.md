@@ -20,13 +20,23 @@ Antes de executar o projeto, você precisará de:
 - **IDE ou Terminal**: Para compilar e executar o código.
 
 ## Como executar o projeto
-1. Clone o repositório: git clone https://github.com/joaopedroffs/calculadora-java.git
-2. Navegue até o diretório do projeto: cd calculadora-java
-3. Compile o arquivo Java: javac main.java
-4. Execute o programa: java main
+1. **Clone o Repositório**: Use o comando abaixo para clonar o repositório em sua máquina local.
+   ```bash
+   git clone https://github.com/joaopedroffs/calculadora-java.git
+2. **Navegue até o Diretório do Projeto**: Acesse a pasta do projeto que você acabou de clonar.
+   ```bash
+   cd calculadora-java
+4. **Compile o arquivo Java**:
+   ```bash
+   javac main.java
+5. **Execute o programa**:
+   ```bash
+   java main
 
 ### Exemplos de uso
 Após executar o programa, você verá um prompt onde poderá inserir os números e escolher a operação desejada:
+
+```bash
 Digite o primeiro número: 
 10
 Digite o segundo número: 
@@ -36,6 +46,8 @@ Escolha uma operação (+, -, *, /):
 O resultado é: 15.0
 Deseja continuar? (S/N)
 S
+```
+
 O programa continuará até que o usuário escolha não continuar.
 
 ## Contribuições
