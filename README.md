@@ -20,7 +20,7 @@ Antes de executar o projeto, você precisará de:
 - **IDE ou Terminal**: Para compilar e executar o código.
 
 ## Como executar o projeto
-1. Clone o repositório: git clone https://github.com/seuusuario/calculadora-java.git
+1. Clone o repositório: git clone https://github.com/joaopedroffs/calculadora-java.git
 2. Navegue até o diretório do projeto: cd calculadora-java
 3. Compile o arquivo Java: javac main.java
 4. Execute o programa: java main
